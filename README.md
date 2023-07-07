@@ -10,6 +10,35 @@ Write an introduction for this project.
 ## 🎯 Objective
 Write some objectives for this project.
 
+## 🔍 About Dataset
+| No. | Feature    | Description                                                                       |
+|-----|------------|-----------------------------------------------------------------------------------|
+| 1   | age        | Age of the patient                                                                |
+| 2   | sex        | Sex of the patient                                                                |
+| 3   | exang      | Exercise-induced angina (1 = yes; 0 = no)                                          |
+| 4   | ca         | Number of major vessels (0-3)                                                     |
+| 5   | cp         | Chest Pain type                                                                   |
+| 6   | trtbps     | Resting blood pressure (in mm Hg)                                                  |
+| 7   | chol       | Cholesterol in mg/dl fetched via BMI sensor                                        |
+| 8   | fbs        | Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)                               |
+| 9   | rest_ecg   | Resting electrocardiographic results                                               |
+| 10  | thalach    | Maximum heart rate achieved                                                       |
+| 11  | oldpeak    | Previous peak                                                                     |
+| 12  | slp        | Slope                                                                             |
+| 13  | thal       | Thal rate                                                                         |
+| 14  | target     | 0 = Less chance of heart attack, 1 = More chance of heart attack                   |
+
+**No.5 - cp(Chest Pain Types):**
+- Value 1: Typical angina
+- Value 2: Atypical angina
+- Value 3: Non-anginal pain
+- Value 4: Asymptomatic
+
+**No.9 - rest_ecg(Resting Electrocardiographic Results):**
+- Value 0: Normal
+- Value 1: Having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+- Value 2: Showing probable or definite left ventricular hypertrophy by Estes' criteria
+
 ## Prerequisite
 Creating a virtual environment is recommended for projects, and either venv or conda can be used based on personal preference. After creating the virtual environment, it is necessary to activate it before installing any required libraries. This project created a virtual environment called "cantekEnv"
 
