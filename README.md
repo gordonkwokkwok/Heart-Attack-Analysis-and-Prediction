@@ -1,14 +1,17 @@
 # 🫀 Heart Attack Analysis & Prediction: Exploring Factors and Building a Predictive Model
 
 <p align="center">
-Add a Image
+  <img src="https://github.com/gordonkwokkwok/Heart-Attack-Analysis-and-Prediction/assets/112631794/7695387f-1c77-48aa-9b03-2494d7e21a24" alt="Heart Attack Prediction" width="500">
 </p>
 
 ## 📚 Introduction
-Write an introduction for this project.
+This project focuses on the analysis and prediction of heart attacks using a dataset containing various factors related to heart health. By exploring the dataset, applying machine learning techniques, and leveraging data analysis, the project aims to gain insights into the factors contributing to heart attacks and develop a predictive model. The findings can help in understanding the risk factors associated with heart attacks and potentially aid in identifying individuals at higher risk.
 
 ## 🎯 Objective
-Write some objectives for this project.
+1. Showcase the ETL process and feature engineering techniques.
+2. Apply advanced Python functions and numpy operations for data transformation.
+3. Visualize the data using matplotlib and seaborn.
+4. Apply machine learning techniques, specifically RandomForestClassifier, for heart attack prediction.
 
 ## 🔍 About Dataset
 | No. | Feature    | Description                                                                       |
