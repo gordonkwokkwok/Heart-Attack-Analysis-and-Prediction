@@ -23,21 +23,32 @@ Write some objectives for this project.
 | 8   | fbs        | Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)                               |
 | 9   | rest_ecg   | Resting electrocardiographic results                                               |
 | 10  | thalach    | Maximum heart rate achieved                                                       |
-| 11  | oldpeak    | Previous peak                                                                     |
-| 12  | slp        | Slope                                                                             |
-| 13  | thal       | Thal rate                                                                         |
+| 11  | oldpeak    | ST depression induced by exercise relative to rest                                                                     |
+| 12  | slp        | the slope of the peak exercise ST segment                                                                             |
+| 13  | thal       | Thalassemia                                                                         |
 | 14  | target     | 0 = Less chance of heart attack, 1 = More chance of heart attack                   |
 
-**No.5 - cp(Chest Pain Types):**
+*No.5 - cp(Chest Pain Types):
 - Value 1: Typical angina
 - Value 2: Atypical angina
 - Value 3: Non-anginal pain
 - Value 4: Asymptomatic
 
-**No.9 - rest_ecg(Resting Electrocardiographic Results):**
+*No.9 - rest_ecg(Resting Electrocardiographic Results):
 - Value 0: Normal
 - Value 1: Having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
 - Value 2: Showing probable or definite left ventricular hypertrophy by Estes' criteria
+
+*No.12 - slp(Slope of the Peak):
+- Value 0 = unsloping
+- Value 1 = flat
+- Value 2 = downsloping
+
+*No.13 - thall(thalassemia):
+- Value 0 = null
+- Value 1 = fixed defect
+- Value 2 = normal
+- Value 3 = reversable defect
 
 ## Prerequisite
 Creating a virtual environment is recommended for projects, and either venv or conda can be used based on personal preference. After creating the virtual environment, it is necessary to activate it before installing any required libraries. This project created a virtual environment called "cantekEnv"
