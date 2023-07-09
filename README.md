@@ -71,6 +71,8 @@ Use following command to install the following libraries:
 pip3 install numpy
 pip3 install pandas
 pip3 install matplotlib
+pip3 install seaborn
+pip3 install scikit-learn
 ```
 
 ## Command to run the project:
