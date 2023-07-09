@@ -86,7 +86,7 @@ jupyter notebook
 
 ## 🌐 Dataset
 - [Link](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?select=heart.csv) ; or
-- [Download Here](https)
+- [Download Here](https://github.com/gordonkwokkwok/Heart-Attack-Analysis-and-Prediction/blob/main/heart.csv)
 
 ## 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
@@ -95,7 +95,9 @@ jupyter notebook
 
 I would like to express our gratitude to the following individuals and organizations for their contributions and support in making this project possible:
 
-- [Name of Contributor/Organization 1](https://example.com): Description of their contribution or support.
+- Will: an instructor of the course, provided valuable guidance, mentorship, and expertise throughout the project. His support was instrumental in shaping the direction of the project and ensuring its success.
+- [Cantek IT Program](https://www.cantekcanada.com/): Cantek IT Program, an educational institution, played a significant role in supporting the project. They provided resources, facilities, and a conducive learning environment for the team to work on the project.
+- [Rashik Rahman](https://www.kaggle.com/rashikrahmanpritom): I express my gratitude to Rashik Rahman for providing the heart attack dataset on Kaggle. This dataset served as a valuable resource for my analysis and prediction tasks, enabling me to explore and gain insights into heart attack classification.
 
 I am thankful for their valuable input, feedback, and assistance throughout the development process. Their expertise and dedication have greatly enhanced the quality and functionality of this project.
 
